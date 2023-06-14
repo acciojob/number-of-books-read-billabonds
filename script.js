@@ -24,7 +24,6 @@ const numberOfBooksRead = () => {
 
 		library[i].readingStatus && count++;
 	}
-
 	return count;
 };
 
